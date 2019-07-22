@@ -22,7 +22,7 @@ moves the window to **Bottom Left Corner**
 `CMD` + `Option` + `Ctrl` + `1`
 moves the window to **Bottom Right Corner**
 
-![alt text](https://github.com/musooff/hammerspoon/screenshots/1234.png)
+![alt text](https://raw.githubusercontent.com/musooff/Hammerspoon/master/screenshots/1234.png)
 
 
 `CMD` + `Option` + `Ctrl` + `Left Arrow`
@@ -31,7 +31,7 @@ moves the window to **Left**
 `CMD` + `Option` + `Ctrl` + `Right Arrow`
 moves the window to **Right**
 
-![alt text](https://github.com/musooff/hammerspoon/screenshots/Left-Right.png)
+![alt text](https://raw.githubusercontent.com/musooff/Hammerspoon/master/screenshots/Left-Right.png)
 
 `CMD` + `Option` + `Ctrl` + `Up Arrow`
 moves the window to **Top**
@@ -39,16 +39,16 @@ moves the window to **Top**
 `CMD` + `Option` + `Ctrl` + `Down Arrow`
 moves the window to **Bottom**
 
-![alt text](https://github.com/musooff/hammerspoon/screenshots/Up-Down.png)
+![alt text](https://raw.githubusercontent.com/musooff/Hammerspoon/master/screenshots/Up-Down.png)
 
 `CMD` + `Option` + `Ctrl` + `T`
 moves the window to **Center**
 
-![alt text](https://github.com/musooff/hammerspoon/screenshots/T)
+![alt text](https://raw.githubusercontent.com/musooff/Hammerspoon/master/screenshots/T.png)
 
 `CMD` + `Option` + `Ctrl` + `M`
 makes window to cover full screen
 
-![alt text](https://github.com/musooff/hammerspoon/screenshots/M.png)
+![alt text](https://raw.githubusercontent.com/musooff/Hammerspoon/master/screenshots/M.png)
 
 ### Enjoy
